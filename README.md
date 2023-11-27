@@ -4,10 +4,13 @@ Fire Extinguisher Level: You'll have to identify the correct fire extinguisher t
 
 ## Instructions to run
 1. Clone Project
-2. Open with Unity version 2020.2.1f1 (preferred) 
-3. use W A S D for movement 
-4. use left click to grab or drop the fire extinguisher
-5. use right click or space bar to spray fumes
+2. Open with Unity version 2020.2.1f1 (preferred)
+3. go to assets folder
+4. open scenes folder
+5. run that
+6. use W A S D for movement
+7. use left click to grab or drop the fire extinguisher
+8. use right click or space bar to spray fumes
 
 
 ## Done by Team no 25
