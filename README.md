@@ -11,6 +11,7 @@ Fire Extinguisher Level: You'll have to identify the correct fire extinguisher t
 6. use W A S D for movement
 7. use left click to grab or drop the fire extinguisher
 8. use right click or space bar to spray fumes
+9.  IMPORTANT INSTRUCTION for grabbing fire extinguisher make sure hand touch to fire extinguisher
 
 
 ## Done by Team no 25
